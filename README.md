@@ -8,11 +8,11 @@ business model and services
 2. [K-Nearest Neighbors Classification on Banknote Dataset](https://shreyt-hash.github.io/DSCI-100-KNN-Classification/)
  * Performed an analysis on a banknote dataset from the UC Irvine ML repository that enabled the computer to detect which banknotes were forged and which ones were authentic with a 99.7% accuracy rate.
 
-3. [Sound Reactive LED Strip] (https://github.com/ShreyT-hash/DIY-LED-Visualizer)
+3. [Sound Reactive LED Strip](https://github.com/ShreyT-hash/DIY-LED-Visualizer)
  * Used an arduino microprocessor, an electret microphone module and the FastLED library in the Arduino IDE to
 create more than 20 different modes that cause the lights to pulsate to sound and create beautiful patterns.
 
-4. [Personal Grocery Shopping Manager] (https://github.com/ShreyT-hash/Grocery-Tracker)
+4. [Personal Grocery Shopping Manager](https://github.com/ShreyT-hash/Grocery-Tracker)
 * Created an application that allows users to keep inventory of their grocery purchases, view their weekly expenses and
 generate a report on their consumption habits.
 * Utilized JSwing to create a functional GUI that allows for easy visualisation of purchases and utilizedJUnit to write
@@ -31,8 +31,6 @@ exception, unit and assertion tests.
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>![image](https://user-images.githubusercontent.com/58535233/129486592-94d86032-2e83-4179-884e-f3c7e2c83457.png)
 
 ### Markdown
 
