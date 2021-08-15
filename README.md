@@ -1,5 +1,6 @@
 ## A brief overview of my projects
 1. [Gym and Fitness Program Management System](https://www.students.cs.ubc.ca/~tshrey/CPSC304Project_project_f3v2b_j8f2b_l0d9/)
+<br>
 - Worked in a group of three to create a database managementsystem for a Gym that offers fitness programs for its
 clients. You can *log* client data, *track* your progress and explore diet plans!
 <br>
@@ -9,6 +10,7 @@ clients. You can *log* client data, *track* your progress and explore diet plans
 <br>
 
 2. [K-Nearest Neighbors Classification on Banknote Dataset](https://shreyt-hash.github.io/DSCI-100-KNN-Classification/)
+<br>
  - A machine learning project that was able to use banknote data from UC Irvine's Repository and detect whether or not images of banknotes were authentic or fake! 
 <br>
 <br>
@@ -17,7 +19,8 @@ clients. You can *log* client data, *track* your progress and explore diet plans
 <br>
 
 3. [Sound Reactive LED Strip](https://github.com/ShreyT-hash/DIY-LED-Visualizer)
- -Used an arduino microprocessor, an electret microphone module and the FastLED library in the Arduino IDE to
+<br>
+- Used an arduino microprocessor, an electret microphone module and the FastLED library in the Arduino IDE to
 create more than 20 different modes that cause the lights to pulsate to sound and create beautiful patterns.
 <br>
 <br>
@@ -26,7 +29,8 @@ create more than 20 different modes that cause the lights to pulsate to sound an
 <br>
 
 4. [Personal Grocery Shopping Manager](https://github.com/ShreyT-hash/Grocery-Tracker)
--Created an application that allows users to keep inventory of their grocery purchases, view their weekly expenses and
+<br>
+- Created an application that allows users to keep inventory of their grocery purchases, view their weekly expenses and
 generate a report on their consumption habits.
 <br>
 <img src = "https://raw.githubusercontent.com/ShreyT-hash/hello-world/main/media-src/grocery%20recording.gif" width = "300" height = "130"/>
