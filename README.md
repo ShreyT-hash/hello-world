@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ShreyT-hash/hello-world/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## A brief overview of my projects
+- K-Nearest Neighbors Classification on Banknote Dataset 
+ -Performed an analysis on a banknote dataset from the UC Irvine ML repository that enabled the computer to detect
+  which banknotes were forged and which ones were authentic with a 99.7% accuracy rate
 
 ### Markdown
 
