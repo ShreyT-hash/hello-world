@@ -1,12 +1,10 @@
 ## A brief overview of my projects
 1. [Gym and Fitness Program Management System](https://www.students.cs.ubc.ca/~tshrey/CPSC304Project_project_f3v2b_j8f2b_l0d9/)
 * Worked in a group of three to create a database managementsystem for a Gym that offers fitness programs for its
-clients.
-* Used SQL to write queries that provide comprehensive metrics regarding the client’s progress as well as the Gym’s
-business model and services
+clients. You can *log* client data, *track* your progress and explore diet plans!
 
 2. [K-Nearest Neighbors Classification on Banknote Dataset](https://shreyt-hash.github.io/DSCI-100-KNN-Classification/)
- * Performed an analysis on a banknote dataset from the UC Irvine ML repository that enabled the computer to detect which banknotes were forged and which ones were authentic with a 99.7% accuracy rate.
+ * A machine learning project that was able to use banknote data from UC Irvine's Repository and detect whether or not images of banknotes were authentic or fake! 
 
 3. [Sound Reactive LED Strip](https://github.com/ShreyT-hash/DIY-LED-Visualizer)
  * Used an arduino microprocessor, an electret microphone module and the FastLED library in the Arduino IDE to
@@ -15,22 +13,25 @@ create more than 20 different modes that cause the lights to pulsate to sound an
 4. [Personal Grocery Shopping Manager](https://github.com/ShreyT-hash/Grocery-Tracker)
 * Created an application that allows users to keep inventory of their grocery purchases, view their weekly expenses and
 generate a report on their consumption habits.
-* Utilized JSwing to create a functional GUI that allows for easy visualisation of purchases and utilizedJUnit to write
-exception, unit and assertion tests.
 
 ## Technologies Used 
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 ### Markdown
 
