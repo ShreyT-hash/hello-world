@@ -42,6 +42,7 @@ generate a report on their consumption habits.
 
  
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contact Information
+- Email: shrey.thapar.uni@gmail.com 
+- Linkedin: linkedin.com/in/shrey-thapar
+- Github Repository: github.com/ShreyT-hash
