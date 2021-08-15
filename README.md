@@ -6,7 +6,7 @@ clients. You can *log* client data, *track* your progress and explore diet plans
 
 2. [K-Nearest Neighbors Classification on Banknote Dataset](https://shreyt-hash.github.io/DSCI-100-KNN-Classification/)
  * A machine learning project that was able to use banknote data from UC Irvine's Repository and detect whether or not images of banknotes were authentic or fake! 
- <img src = "./hello-world/blob/24b8beb4921cf6de641bd30774897cde11e67535/media-src/DSCI%20recording.gif" width = "300" height = "130"/>
+ <img src = "https://raw.githubusercontent.com/ShreyT-hash/hello-world/main/media-src/DSCI%20recording.gif" width = "300" height = "130"/>
 
 3. [Sound Reactive LED Strip](https://github.com/ShreyT-hash/DIY-LED-Visualizer)
  * Used an arduino microprocessor, an electret microphone module and the FastLED library in the Arduino IDE to
@@ -16,7 +16,7 @@ create more than 20 different modes that cause the lights to pulsate to sound an
 4. [Personal Grocery Shopping Manager](https://github.com/ShreyT-hash/Grocery-Tracker)
 * Created an application that allows users to keep inventory of their grocery purchases, view their weekly expenses and
 generate a report on their consumption habits.
-<img src = "https://github.com/ShreyT-hash/hello-world/blob/24b8beb4921cf6de641bd30774897cde11e67535/media-src/grocery%20recording.gif" width = "300" height = "130"/>
+<img src = "https://raw.githubusercontent.com/ShreyT-hash/hello-world/main/media-src/grocery%20recording.gif" width = "300" height = "130"/>
 
 ## Technologies Used 
 
