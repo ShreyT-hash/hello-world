@@ -1,4 +1,5 @@
 ## A brief overview of my projects
+<div>
 1. [Gym and Fitness Program Management System](https://www.students.cs.ubc.ca/~tshrey/CPSC304Project_project_f3v2b_j8f2b_l0d9/)
 <br>
 - Worked in a group of three to create a database managementsystem for a Gym that offers fitness programs for its
@@ -33,9 +34,11 @@ create more than 20 different modes that cause the lights to pulsate to sound an
 - Created an application that allows users to keep inventory of their grocery purchases, view their weekly expenses and
 generate a report on their consumption habits.
 <br>
+<br>
 <img src = "https://raw.githubusercontent.com/ShreyT-hash/hello-world/main/media-src/grocery%20recording.gif" width = "300" height = "130"/>
 <br>
 <br>
+</div>
 ## Technologies Used 
 <img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt ="HTML5" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
