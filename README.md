@@ -33,7 +33,7 @@ generate a report on their consumption habits.
   <br>
     <img src = "https://raw.githubusercontent.com/ShreyT-hash/hello-world/main/media-src/grocery%20recording.gif" width = "300" height = "130"/>
 
-
+<br>
 
 ## Technologies Used 
 <img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -55,7 +55,7 @@ generate a report on their consumption habits.
 
 
 
-
+<br>
 
 
 ## Contact Information
