@@ -34,6 +34,7 @@ generate a report on their consumption habits.
     <img src = "https://raw.githubusercontent.com/ShreyT-hash/hello-world/main/media-src/grocery%20recording.gif" width = "300" height = "130"/>
 
 
+
 ## Technologies Used 
 <img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt ="HTML5" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
@@ -46,6 +47,16 @@ generate a report on their consumption habits.
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br>
+
+
+
+
+
+
+
+
+
+
 
 ## Contact Information
 - Email: shrey.thapar.uni@gmail.com 
