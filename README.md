@@ -4,6 +4,7 @@
 
 - Worked in a group of three to create a database managementsystem for a Gym that offers fitness programs for its
 clients. You can *log* client data, *track* your progress and explore diet plans!
+<br>
   <img src = "https://raw.githubusercontent.com/ShreyT-hash/hello-world/main/media-src/DBMS%20recording.gif" width = "300" height = "130" />
 
 2. [K-Nearest Neighbors Classification on Banknote Dataset](https://shreyt-hash.github.io/DSCI-100-KNN-Classification/)
