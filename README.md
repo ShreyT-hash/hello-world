@@ -1,7 +1,24 @@
 ## A brief overview of my projects
-- K-Nearest Neighbors Classification on Banknote Dataset 
- -Performed an analysis on a banknote dataset from the UC Irvine ML repository that enabled the computer to detect
-  which banknotes were forged and which ones were authentic with a 99.7% accuracy rate
+1. [Gym and Fitness Program Management System](https://www.students.cs.ubc.ca/~tshrey/CPSC304Project_project_f3v2b_j8f2b_l0d9/)
+* Worked in a group of three to create a database managementsystem for a Gym that offers fitness programs for its
+clients.
+* Used SQL to write queries that provide comprehensive metrics regarding the client’s progress as well as the Gym’s
+business model and services
+
+2. [K-Nearest Neighbors Classification on Banknote Dataset](https://shreyt-hash.github.io/DSCI-100-KNN-Classification/)
+ * Performed an analysis on a banknote dataset from the UC Irvine ML repository that enabled the computer to detect which banknotes were forged and which ones were authentic with a 99.7% accuracy rate.
+
+3. [Sound Reactive LED Strip] (https://github.com/ShreyT-hash/DIY-LED-Visualizer)
+ * Used an arduino microprocessor, an electret microphone module and the FastLED library in the Arduino IDE to
+create more than 20 different modes that cause the lights to pulsate to sound and create beautiful patterns.
+
+4. [Personal Grocery Shopping Manager] (https://github.com/ShreyT-hash/Grocery-Tracker)
+* Created an application that allows users to keep inventory of their grocery purchases, view their weekly expenses and
+generate a report on their consumption habits.
+* Utilized JSwing to create a functional GUI that allows for easy visualisation of purchases and utilizedJUnit to write
+exception, unit and assertion tests.
+
+## Technologies Used 
 
 ### Markdown
 
