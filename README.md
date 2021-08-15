@@ -44,5 +44,5 @@ generate a report on their consumption habits.
 
 ## Contact Information
 - Email: shrey.thapar.uni@gmail.com 
-- Linkedin: linkedin.com/in/shrey-thapar
-- Github Repository: github.com/ShreyT-hash
+- Linkedin: (linkedin.com/in/shrey-thapar)
+- Github Repository: (github.com/ShreyT-hash)
